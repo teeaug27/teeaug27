@@ -4,7 +4,7 @@ Hi 👋 My name is Augusta F
 DevOps | Cloud Engineer | SRE
 -----------------------------
 
-Ms Cloud Computing Architecture ( In View) .
+Ms Cloud Computing Architecture .
 
 *   🌍  I'm based in Washighton , DC
 *   ✉️  You can contact me at [support@zollistechsolutions.com](mailto:support@zollistechsolutions.com)
